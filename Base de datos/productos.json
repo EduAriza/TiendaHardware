@@ -1,0 +1,58 @@
+[
+    {
+        "imagen": "./images/imagen1.jpg",
+        "nombre": "Mother ASUS PRIME A520M-K AM4 2da Gen Ready M-ATX",
+        "precio": 20000
+    },
+    {
+        "imagen": "./images/imagen2.jpg",
+        "nombre": "Placa de Video ASUS GeForce GTX 1660 TI 6GB",
+        "precio": 95000
+    },
+    {
+        "imagen": "./images/imagen3.jpg",
+        "nombre": "Memoria GeiL DDR4 16GB 3000MHz Super Luce RGB",
+        "precio": 7500
+    },
+    {
+        "imagen": "./images/imagen4.jpg",
+        "nombre": "Notebook Gamer AORUS KD 15.6 Core I7 11800H 16GB",
+        "precio": 256000
+    },
+    {
+        "imagen": "./images/imagen5.jpg",
+        "nombre": "Silla Gamer Cooler Master Caliber R2C Grey",
+        "precio": 80000
+    },
+    {
+        "imagen": "./images/imagen6.jpg",
+        "nombre": "Mouse Glorious Model D Minus - Matte Black gamer",
+        "precio": 7200
+    },
+    
+    {
+        "imagen": "./images/imagen8.jpg",
+        "nombre": "Fuente ASUS TUF 550W 80 Plus Bronze 550B",
+        "precio": 15000
+    },
+    {
+        "imagen": "./images/imagen9.jpg",
+        "nombre": "Mother ASUS PRIME H610M-E D4 S1700 2da Gen Ready ATX",
+        "precio": 17500
+    },
+    {
+        "imagen": "./images/imagen7.jpg",
+        "nombre": "Auriculares HyperX Cloud Flight Black Wireless",
+        "precio": 22000
+    },
+    {
+        "imagen": "./images/imagen11.jpg",
+        "nombre": "Webcam Redragon GW600 FOBOS 1080p",
+        "precio": 9000
+    },
+    {
+        "imagen": "./images/imagen10.jpg",
+        "nombre": "Teclado Redragon Shiva K512 RGB Español",
+        "precio": 8000
+    }
+]
